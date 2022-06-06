@@ -1,0 +1,13 @@
+package com.gateway.shopgtw;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShopgtwApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShopgtwApplication.class, args);
+	}
+
+}
